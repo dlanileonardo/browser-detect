@@ -10,3 +10,6 @@ Credits To:
 ### Demo ###
 
 <http://rcs-comp.com/browser-detect/>
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dlanileonardo/browser-detect/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
